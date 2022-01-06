@@ -9,3 +9,6 @@ Test wydajnościowy postgresa
 ### psql -c "CREATE DATABASE bench2"
 
 Skrypt do uruchomienia na serwerze z postgresem. Najlepiej odpalać zdalnie trzeba dodać poświadczenia
+
+# RUN
+./tmask_pgbench.sh > LogFile.txt
