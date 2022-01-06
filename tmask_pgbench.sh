@@ -1,6 +1,11 @@
 #!/bin/bash
 ## pgbench
 
+# __author__ = "biuro@tmask.pl"
+# __copyright__ = "Copyright (C) 2022 TMask.pl"
+# __license__ = "MIT License"
+# __version__ = "1.0"
+
 NAME=`date +%Y%m%d_%H%M`
 
 SEC=600
