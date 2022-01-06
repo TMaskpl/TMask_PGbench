@@ -1,5 +1,5 @@
 # TMask_pgbench
-Test wydajnościowy postgresa
+Test wydajnościowy postgresa = ok. 1,5 h czas trwania
 
 
 # Stwórz 3 bazy
